@@ -218,10 +218,3 @@ class Main:
             text = font.render('СЧЁТ: '+ str(self.score), True , 'white')
             self.screen.blit(text, (65, 220))
             pygame.display.flip()
-        
-
-
-
-
-
-        
