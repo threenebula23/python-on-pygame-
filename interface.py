@@ -77,5 +77,3 @@ def game(difficult):
             
 
     pygame.display.flip()
-
-
